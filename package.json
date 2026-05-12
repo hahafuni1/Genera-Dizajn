@@ -1,0 +1,12 @@
+{
+  "name": "genera-dizajn",
+  "version": "1.0.0",
+  "description": "Genera Dizajn — AI Vizuelna Produkcija",
+  "scripts": {
+    "dev": "npx serve . -p 3000",
+    "build": "echo 'Static site — no build needed'"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
